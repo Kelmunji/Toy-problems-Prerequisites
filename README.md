@@ -33,7 +33,7 @@ This repository contains solutions to the toy problems assigned in Week 1 of the
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/Kelmunji/Toy-problems-Prerequisites.git
    ```
    
 2. Open each JavaScript file in a code editor or run it using a JavaScript environment like Node.js.
@@ -51,6 +51,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Your Name  
-Your GitHub Profile Link
-```
+k Githinji 
+https://github.com/Kelmunji/Toy-problems-Prerequisites.git
